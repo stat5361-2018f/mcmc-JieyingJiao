@@ -1,2 +1,2 @@
 # rng-JieyingJiao
-Please see the HW6.pdf file for grading.
+Please see the HW7.pdf file for grading.
